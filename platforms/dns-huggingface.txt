@@ -1,0 +1,15 @@
+api-inference.huggingface.co
+api-staging.autonlp.huggingface.co
+api.autonlp.huggingface.co
+banana.huggingface.co
+huggingface.co
+metrics-staging.autonlp.huggingface.co
+metrics.autonlp.huggingface.co
+moonrise.huggingface.co
+tensorboard.huggingface.co
+thumbnails.huggingface.co
+transformer.huggingface.co
+transformers.huggingface.co
+ui-staging.autonlp.huggingface.co
+ui.autonlp.huggingface.co
+widgets-cors-proxy.huggingface.co

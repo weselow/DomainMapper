@@ -21,3 +21,7 @@ Jetbrains: https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/refs/head
 Xbox: https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/refs/heads/main/platforms/dns-xbox.txt
 Xvideos: platforms/dns-xvideos.txt
 Nvidia: platforms/dns-nvidia.txt
+Dell: platforms/dns-dell.txt
+Skladchik: platforms/dns-skladchik.txt
+Huggingface: platforms/dns-huggingface.txt
+Tailscale: platforms/dns-tailscale.txt
